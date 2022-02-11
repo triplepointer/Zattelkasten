@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "8307995cf744b820",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b79451ac318e9e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/router.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35c16320a52effd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30a717c6e389365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de8fc0d4f43c9d32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a8c6604e295e527",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70e88e4506467151",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf7aa1380fbb0c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192d6f42051ba734",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/router.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "141dca4b30a16edf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1b79451ac318e9e0",
+  "lastOpenFiles": [
+    "Zettelkasten/router.md",
+    "Zettelkasten/a simple network.md",
+    "Zettelkasten/internet.md",
+    "Templates/map of content.md",
+    "Templates/atomic idea.md"
+  ]
+}
